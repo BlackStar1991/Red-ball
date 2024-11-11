@@ -1,0 +1,12 @@
+*.log
+debug.log___jb_old___
+.idea/*
+.idea/vcs.xml
+wp-config.php
+wp-content/cache/
+node_modules
+
+smtp.php
+
+
+/wp-content/themes/proyob_2023/markup-template/node_modules/*
